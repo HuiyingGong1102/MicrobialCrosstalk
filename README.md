@@ -32,9 +32,6 @@ python/curvature.py      Signed-control Forman and projected LLY curvature
 python/analyze_networks.py  Batch homology/curvature for both scales
 data/                    Input workbooks (locally included; ignored by Git)
 tools/                   Local GLMY executable (ignored by Git)
-tests/                   Analytic/synthetic regression checks
-docs/                    Methods, audit, and validation notes
-results/                 Generated outputs (ignored by Git)
 ```
 
 ## Setup
